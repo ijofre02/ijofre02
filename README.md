@@ -48,6 +48,6 @@ I'm currently working on projects like **HINENI**, **Soluciones Integrales**, an
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijofre02&show_icons=true&theme=radial" alt="Ignacio's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijofre02&layout=compact&theme=radial" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ijofre02&show_icons=true&theme=radial" alt="Ignacio's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijofre02&layout=compact&theme=radial" alt="Top Langs" width="49%" />
 </p>
