@@ -30,6 +30,7 @@ I'm currently working on projects like **HINENI**, **Soluciones Integrales**, an
 ### 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,6 +48,6 @@ I'm currently working on projects like **HINENI**, **Soluciones Integrales**, an
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radial" alt="Ignacio's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ijofre02&show_icons=true&theme=radial" alt="Ignacio's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijofre02&layout=compact&theme=radial" alt="Top Langs" width="48%" />
 </p>
